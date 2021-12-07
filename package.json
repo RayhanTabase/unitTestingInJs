@@ -1,0 +1,23 @@
+{
+  "name": "unittestinginjs",
+  "version": "1.0.0",
+  "description": "In this repository I venture into adopting the good practice of writing unit tests for JavaScript code",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^27.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayhanTabase/unitTestingInJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayhanTabase/unitTestingInJs/issues"
+  },
+  "homepage": "https://github.com/RayhanTabase/unitTestingInJs#readme"
+}
